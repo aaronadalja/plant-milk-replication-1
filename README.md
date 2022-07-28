@@ -4,7 +4,7 @@ Author: Aaron Adalja
 
 Date: July 2022
 
-The files contained herein allow for replication of the results for: "<INSERT TITLE HERE>" by Geqing Zhou and Aaron Adalja
+The files contained herein allow for replication of the results for: "INSERT TITLE HERE" by Geqing Zhou and Aaron Adalja
 
 root folder:
 
