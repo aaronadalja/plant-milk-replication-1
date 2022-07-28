@@ -8,6 +8,6 @@ The files contained herein allow for replication of the results for: "INSERT TIT
 
 root folder:
 
-Annotated.do - Stata code file used to process the survey data and generate Tables 3 to 10 and Figures 5 and 6.
-plant_milk_figures.xlsx - Excel file used to generate Figures 7 to 10
+Annotated.do - Stata code file used to process the survey data and generate Tables 3 to 10 and Figures 5 and 6.<br>
+plant_milk_figures.xlsx - Excel file used to generate Figures 7 to 10 <br>
 Long Form.xlsx - raw survey response data used as input for "Annotated.do"
